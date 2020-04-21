@@ -12,6 +12,12 @@ public class sayeed {
 		System.out.println("add step3");
 		
 		System.out.println("add step4");
+		
+		System.out.println("added more stuff while sukrat added stuff");
+	}
+	
+	public void method2() {
+		
 	}
 
 }
