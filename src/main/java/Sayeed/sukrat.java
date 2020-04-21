@@ -8,6 +8,27 @@ public class sukrat {
 		
 		
 		System.out.println("sukrat class");
-	}
+		
+		System.out.println("sayeed");
+		
+		
 
+		System.out.println("sukrat class");
+		
+		System.out.println("sayeed");
+System.out.println("sukrat class");
+		
+		System.out.println("sayeed");
+		
+
+		
+		System.out.println("sayeed");
+		System.out.println("crazy people");
+	}
+public void crazypeople() {
+	
+System.out.println("super crazy");
+	
+	
+}
 }
