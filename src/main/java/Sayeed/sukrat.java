@@ -13,12 +13,6 @@ public class sukrat {
 		
 		
 
-		System.out.println("sukrat class");
-		
-		System.out.println("sayeed");
-System.out.println("sukrat class");
-		
-		System.out.println("sayeed");
 		
 
 		
