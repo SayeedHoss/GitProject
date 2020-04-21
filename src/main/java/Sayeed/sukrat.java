@@ -16,18 +16,18 @@ public class sukrat {
 		System.out.println("sukrat class");
 		
 		System.out.println("sayeed");
-System.out.println("sukrat class");
+		System.out.println("sukrat class");
 		
 		System.out.println("sayeed");
 		
-
+System.out.println("i got the stuff back");
 		
 		System.out.println("sayeed");
 		System.out.println("crazy people");
 	}
-public void crazypeople() {
+	public void crazypeople() {
 	
-System.out.println("super crazy");
+		System.out.println("super crazy");
 	
 	
 }
