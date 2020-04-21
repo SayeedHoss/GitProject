@@ -1,6 +1,6 @@
 package Sayeed;
 
-public class sukrat {
+public class sukrat1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
