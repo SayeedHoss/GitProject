@@ -5,8 +5,6 @@ public class sukrat {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		
-		
 		System.out.println("sukrat class");
 		
 		System.out.println("sayeed");
@@ -14,6 +12,27 @@ public class sukrat {
 		
 
 		System.out.println("sukrat class");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		System.out.println("sayeed");
 		System.out.println("sukrat class");
